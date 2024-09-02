@@ -6,7 +6,7 @@ export default function Screen(){
 
     return(
         <SafeAreaView style={styles.container}>
-            <Text>Tela Inicial</Text>
+            <Text>Sobre o autor</Text>
 
         </SafeAreaView>
     )
